@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python Júnior`**
 
-Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um profissional em início de carreira na área de TI, mas com grande entusiasmo por automação e melhoria de processos. Meu objetivo é conquistar um estágio em TI para aplicar meus conhecimentos em Python e Excel em rotinas administrativas, enquanto aprendo rápido para apoiar o time. Sou apaixonado por tecnologia e estou constantemente buscando evoluir minhas habilidades técnicas e interpessoais.
+Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um profissional em início de carreira na área de TI, atualmente focado em prevenção a fraudes no projeto Bradesco, mas com grande entusiasmo por automação e melhoria de processos. Meu objetivo é conquistar um estágio em TI para aplicar meus conhecimentos em Python e Excel em rotinas administrativas, enquanto aprendo rápido para apoiar o time. Sou apaixonado por tecnologia e estou constantemente buscando evoluir minhas habilidades técnicas e interpessoais.
 
 <p align="left">
     <a href="https://github.com/GustavoABA?tab=repositories&sort=stargazers">
@@ -127,5 +127,15 @@ Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um
 ---
 
 ### 📩 Contato
-* [cite_start]**LinkedIn:** [linkedin.com/in/gustavo-azevedo-757a97231/](https://www.linkedin.com/in/gustavo-azevedo-757a97231/) [cite: 3]
-* [cite_start]**E-mail:** [dfigustavo@gmail.com](mailto:dfigustavo@gmail.com) [cite: 2]
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-azevedo-757a97231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dfigustavo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/5519989342212" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
