@@ -1,109 +1,125 @@
-# 👨‍💻 Gustavo Azevedo Barrozo
+Para deixar o seu perfil exatamente no estilo da Larissa Kich, focando na sua trajetória e no seu forte desejo de aprender as tecnologias que você mencionou (HTML, CSS, JS, Java, Python, C#, C, MySQL), utilize o código abaixo no seu `README.md`:
 
-**`Desenvolvedor Python Júnior | Automação e Processos`**
+# 👨🏻‍💻 Gustavo Azevedo Barrozo
 
-Olá! Sou o Gustavo, um profissional em início de carreira na área de TI, apaixonado por tecnologia e focado em transformar tarefas manuais em soluções automáticas e eficientes. Minha especialidade é o desenvolvimento de scripts com **Python**, criando automações simples, organização de arquivos e rotinas repetitivas.
+**`Desenvolvedor em Evolução | Foco em Automação`**
 
-Recentemente, desenvolvi um **Organizador de Pastas Inteligente** com interface gráfica em **PyQt6**, focado na triagem de arquivos por extensão e tamanho, entregando um produto final completo com executável e instalador nativo para Windows.
+Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e sou natural de Pirassununga/SP, atualmente residindo em Uberlândia/MG. Sou um profissional em início de carreira na área de TI, apaixonado por tecnologia e focado em transformar processos manuais em automações inteligentes. Atualmente, busco uma oportunidade de estágio onde eu possa aplicar meus conhecimentos em Python e Excel para otimizar rotinas administrativas enquanto aprendo novas linguagens para apoiar o time.
 
 <p align="left">
-    <a href="https://linkedin.com/in/gustavo-azevedo-757a97231/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/GustavoABA?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GustavoABA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://www.google.com/search?q=https://github.com/GustavoABA%3Ftab%3Drepositories%26sort%3Dstargazers">
+<img
+alt="Total de estrelas"
+title="Total de estrelas GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/stars/GustavoABA%3Fcolor%3D55960c%26style%3Dfor-the-badge%26labelColor%3D488207%26logo%3Dstar%26label%3Destrelas"
+/>
+</a>
+<a href="https://www.google.com/search?q=https://github.com/GustavoABA%3Ftab%3Dfollowers">
+<img
+alt="Seguidores"
+title="Me siga no GitHub"
+src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/GustavoABA%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DSeguidores%26logoColor%3Dwhite"
+/>
+</a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em Aprendizado
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-<img 
-    align="left" 
-    alt="Qt"
-    title="PyQt6 (Interface Gráfica)" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" 
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel (Organização de Dados)"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft-excel/microsoft-excel-original.svg" 
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+<img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/java/java-original.svg"
 />
-
-<br/>
-<br/>
+<img
+align="left"
+alt="C#"
+title="C#"
+width="30px"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/csharp/csharp-original.svg"
+/>
+<img
+align="left"
+alt="C"
+title="C"
+width="30px"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/c/c-original.svg"
+/>
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/mysql/mysql-original.svg"
+/>
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoABA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGustavoABA%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
+/>
 
-<img 
-      align="left" 
-      alt="Top Tecnologias" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoABA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGustavoABA%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DTecnologias%26langs_count%3D9"
+/>
+
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
 
-### 🚀 Destaque Recente
-**[Organizador Automático de Pastas](https://github.com/GustavoABA/OrganizadorAutomaticoPython)**: 
-Sistema que automatiza a triagem de arquivos, movendo-os para pastas específicas conforme tipo e tamanho. 
-* Interface gráfica desenvolvida em **PyQt6**.
-* Distribuição profissional via `.exe` e `.msi`.
-
----
-
-📧 **Contato:** [dfigustavo@gmail.com](mailto:dfigustavo@gmail.com)
+📧 **Contato:** [dfigustavo@gmail.com](mailto:dfigustavo@gmail.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/gustavo-azevedo-757a97231/)
