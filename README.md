@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python Júnior`**
 
-Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um profissional em início de carreira na área de TI, atualmente focado em prevenção a fraudes no projeto Bradesco, mas com grande entusiasmo por automação e melhoria de processos. Meu objetivo é conquistar um estágio em TI para aplicar meus conhecimentos em Python e Excel em rotinas administrativas, enquanto aprendo rápido para apoiar o time. Sou apaixonado por tecnologia e estou constantemente buscando evoluir minhas habilidades técnicas e interpessoais.
+Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um profissional em início de carreira na área de TI, mas com grande entusiasmo por automação e melhoria de processos. Meu objetivo é conquistar um estágio em TI para aplicar meus conhecimentos em Python e Excel em rotinas administrativas, enquanto aprendo rápido para apoiar o time. Sou apaixonado por tecnologia e estou constantemente buscando evoluir minhas habilidades técnicas e interpessoais.
 
 <p align="left">
     <a href="https://github.com/GustavoABA?tab=repositories&sort=stargazers">
@@ -125,7 +125,12 @@ Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um
 <br/>
 
 ---
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ### 📩 Contato
 
 <p align="left">
