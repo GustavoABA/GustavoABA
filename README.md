@@ -21,7 +21,7 @@ Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um
     </a>
 </p>
 
----
+<p align="left">
 
 ### 🤖 Linguagens e Tecnologias em Aprendizado
 
@@ -123,14 +123,13 @@ Me chamo Gustavo Azevedo Barrozo, tenho 23 anos e moro em Uberlândia/MG. Sou um
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ### 📩 Contato
 
 <p align="left">
